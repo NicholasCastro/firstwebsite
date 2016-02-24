@@ -30,7 +30,7 @@ body
 	
 	width: 400px;
 	height: 100px;
-	background-image: url(logo.png);
+	background-image: url(../img/logo.png);
 	float: left;
 }
 
